@@ -14,6 +14,15 @@
 ├── ./Logs
 │   └── ./Logs/box
 │       └── ./Logs/box/75305-seltrain20num3each20.log
+├── ./Outputs
+│   └── ./Outputs/Main
+│       └── ./Outputs/Main/Box
+│           └── ./Outputs/Main/Box/seltrain20num3each20
+│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-cutcat.csv
+│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-cutcont.csv
+│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-error.csv
+│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-predregfin.csv
+│               └── ./Outputs/Main/Box/seltrain20num3each20/75305-selvarfin.csv
 ├── ./Projects
 │   └── ./Projects/box
 │       ├── ./Projects/box/input
@@ -50,7 +59,7 @@
 │   │           ├── ./Scripts/Box/Python/module/calregs.py
 │   │           ├── ./Scripts/Box/Python/module/predregs.py
 │   │           ├── ./Scripts/Box/Python/module/typecast.py
-│   │           └── ./Scripts/Box/Python/module/utility.py
+│   │           └── ./Scripts/Box/Python/module/xutil.py
 │   ├── ./Scripts/ML
 │   │   └── ./Scripts/ML/Python
 │   │       └── ./Scripts/ML/Python/dtree.py
@@ -75,4 +84,4 @@
     ├── ./Structures/directory.txt
     └── ./Structures/file.txt
 
-25 directories, 51 files
+29 directories, 56 files

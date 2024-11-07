@@ -6,6 +6,10 @@
 │           └── full
 ├── Logs
 │   └── box
+├── Outputs
+│   └── Main
+│       └── Box
+│           └── seltrain20num3each20
 ├── Projects
 │   └── box
 │       ├── input
@@ -24,4 +28,4 @@
 │           └── module
 └── Structures
 
-25 directories
+29 directories
