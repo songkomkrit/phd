@@ -1,5 +1,18 @@
 .
 ├── ./Data
+│   ├── ./Data/Encoded
+│   │   ├── ./Data/Encoded/csv
+│   │   │   └── ./Data/Encoded/csv/pppub20enc.csv
+│   │   ├── ./Data/Encoded/feather
+│   │   │   └── ./Data/Encoded/feather/pppub20enc.feather
+│   │   ├── ./Data/Encoded/info
+│   │   │   ├── ./Data/Encoded/info/pppub20enc-countinfo.csv
+│   │   │   └── ./Data/Encoded/info/pppub20enc-info.csv
+│   │   └── ./Data/Encoded/metadata
+│   │       ├── ./Data/Encoded/metadata/extra
+│   │       │   ├── ./Data/Encoded/metadata/extra/catchange-pppub20enc.txt
+│   │       │   └── ./Data/Encoded/metadata/extra/contnonpos-pppub20enc.txt
+│   │       └── ./Data/Encoded/metadata/meta-indep-cat-pppub20enc.json
 │   └── ./Data/Original
 │       ├── ./Data/Original/feather
 │       │   └── ./Data/Original/feather/pppub20.feather
@@ -22,6 +35,7 @@
 │               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-cutcont.csv
 │               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-error.csv
 │               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-predregfin.csv
+│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report.csv
 │               └── ./Outputs/Main/Box/seltrain20num3each20/75305-selvarfin.csv
 ├── ./Projects
 │   └── ./Projects/box
@@ -38,7 +52,6 @@
 │       ├── ./Projects/box/log
 │       │   └── ./Projects/box/log/blank.log
 │       ├── ./Projects/box/mixed-boxes-alternative.mod
-│       ├── ./Projects/box/mixed-boxes-alternative.ops
 │       ├── ./Projects/box/output
 │       │   ├── ./Projects/box/output/75305-seltrain20num3each20-export-cutcat-full-pcont-3-mfullaltseltol-2-t-1440.csv
 │       │   ├── ./Projects/box/output/75305-seltrain20num3each20-export-cutcont-full-pcont-3-mfullaltseltol-2-t-1440.csv
@@ -84,4 +97,4 @@
     ├── ./Structures/directory.txt
     └── ./Structures/file.txt
 
-29 directories, 56 files
+35 directories, 63 files

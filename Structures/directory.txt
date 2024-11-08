@@ -1,5 +1,11 @@
 .
 ├── Data
+│   ├── Encoded
+│   │   ├── csv
+│   │   ├── feather
+│   │   ├── info
+│   │   └── metadata
+│   │       └── extra
 │   └── Original
 │       ├── feather
 │       └── metadata
@@ -28,4 +34,4 @@
 │           └── module
 └── Structures
 
-29 directories
+35 directories
