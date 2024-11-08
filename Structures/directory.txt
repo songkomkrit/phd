@@ -26,7 +26,6 @@
 │   ├── Box
 │   │   └── Python
 │   │       └── module
-│   │           └── __pycache__
 │   ├── ML
 │   │   └── Python
 │   └── Preprocessing
@@ -35,4 +34,4 @@
 │           └── module
 └── Structures
 
-36 directories
+35 directories

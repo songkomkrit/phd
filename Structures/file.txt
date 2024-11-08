@@ -72,11 +72,6 @@
 │   │       └── ./Scripts/Box/Python/module
 │   │           ├── ./Scripts/Box/Python/module/calregs.py
 │   │           ├── ./Scripts/Box/Python/module/predregs.py
-│   │           ├── ./Scripts/Box/Python/module/__pycache__
-│   │           │   ├── ./Scripts/Box/Python/module/__pycache__/calregs.cpython-312.pyc
-│   │           │   ├── ./Scripts/Box/Python/module/__pycache__/predregs.cpython-312.pyc
-│   │           │   ├── ./Scripts/Box/Python/module/__pycache__/typecast.cpython-312.pyc
-│   │           │   └── ./Scripts/Box/Python/module/__pycache__/xutil.cpython-312.pyc
 │   │           ├── ./Scripts/Box/Python/module/typecast.py
 │   │           └── ./Scripts/Box/Python/module/xutil.py
 │   ├── ./Scripts/ML
@@ -103,4 +98,4 @@
     ├── ./Structures/directory.txt
     └── ./Structures/file.txt
 
-36 directories, 68 files
+35 directories, 64 files
