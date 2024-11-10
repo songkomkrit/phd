@@ -11,8 +11,9 @@
 │   │   └── ./Data/Encoded/metadata
 │   │       ├── ./Data/Encoded/metadata/extra
 │   │       │   ├── ./Data/Encoded/metadata/extra/catchange-pppub20enc.txt
-│   │       │   └── ./Data/Encoded/metadata/extra/contnonpos-pppub20enc.txt
-│   │       └── ./Data/Encoded/metadata/meta-indep-cat-pppub20enc.json
+│   │       │   ├── ./Data/Encoded/metadata/extra/contnonpos-pppub20enc.txt
+│   │       │   └── ./Data/Encoded/metadata/extra/meta-indep-cat-pppub20enc.json
+│   │       └── ./Data/Encoded/metadata/meta-indep-pppub20enc.json
 │   └── ./Data/Original
 │       ├── ./Data/Original/feather
 │       │   └── ./Data/Original/feather/pppub20.feather
@@ -34,6 +35,9 @@
 │               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-cutcat.csv
 │               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-cutcont.csv
 │               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-eperf.csv
+│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-exam-diff.csv
+│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-exam-diffnum.csv
+│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-exam-full.csv
 │               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-predregfin.csv
 │               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-reg-dup.csv
 │               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-reg-nondup.csv
@@ -106,4 +110,4 @@
     ├── ./Structures/directory.txt
     └── ./Structures/file.txt
 
-37 directories, 70 files
+37 directories, 74 files

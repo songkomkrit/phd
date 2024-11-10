@@ -1,143 +1,161 @@
-iter,taccuracy,minute,acctmin,status,j,variable,type,group,member,desc
-2,38.00,0.03,0.03,104,2,PEMLR,Categorical,0,1,Employed - at work
-2,38.00,0.03,0.03,104,2,PEMLR,Categorical,0,3,Unemployed - on layoff
-2,38.00,0.03,0.03,104,2,PEMLR,Categorical,0,7,Not in labor force - other
-2,38.00,0.03,0.03,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-2,38.00,0.03,0.03,104,2,PEMLR,Categorical,3,0,NIU
-2,38.00,0.03,0.03,104,2,PEMLR,Categorical,3,2,Employed - absent
-2,38.00,0.03,0.03,104,2,PEMLR,Categorical,3,4,Unemployed - looking
-2,38.00,0.03,0.03,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-2,38.00,0.03,0.03,104,3,SS_YN,Categorical,0,2,No
-2,38.00,0.03,0.03,104,3,SS_YN,Categorical,1,1,Yes
-2,38.00,0.03,0.03,104,3,SS_YN,Categorical,2,0,NIU (aged below 15)
-3,38.00,0.01,0.04,104,2,PEMLR,Categorical,0,1,Employed - at work
-3,38.00,0.01,0.04,104,2,PEMLR,Categorical,0,3,Unemployed - on layoff
-3,38.00,0.01,0.04,104,2,PEMLR,Categorical,0,7,Not in labor force - other
-3,38.00,0.01,0.04,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-3,38.00,0.01,0.04,104,2,PEMLR,Categorical,3,0,NIU
-3,38.00,0.01,0.04,104,2,PEMLR,Categorical,3,2,Employed - absent
-3,38.00,0.01,0.04,104,2,PEMLR,Categorical,3,4,Unemployed - looking
-3,38.00,0.01,0.04,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-3,38.00,0.01,0.04,104,3,SS_YN,Categorical,0,2,No
-3,38.00,0.01,0.04,104,3,SS_YN,Categorical,1,1,Yes
-3,38.00,0.01,0.04,104,3,SS_YN,Categorical,2,0,NIU (aged below 15)
-4,38.00,0.01,0.06,104,2,PEMLR,Categorical,0,1,Employed - at work
-4,38.00,0.01,0.06,104,2,PEMLR,Categorical,0,3,Unemployed - on layoff
-4,38.00,0.01,0.06,104,2,PEMLR,Categorical,0,7,Not in labor force - other
-4,38.00,0.01,0.06,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-4,38.00,0.01,0.06,104,2,PEMLR,Categorical,3,0,NIU
-4,38.00,0.01,0.06,104,2,PEMLR,Categorical,3,2,Employed - absent
-4,38.00,0.01,0.06,104,2,PEMLR,Categorical,3,4,Unemployed - looking
-4,38.00,0.01,0.06,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-4,38.00,0.01,0.06,104,3,SS_YN,Categorical,0,2,No
-4,38.00,0.01,0.06,104,3,SS_YN,Categorical,1,1,Yes
-4,38.00,0.01,0.06,104,3,SS_YN,Categorical,2,0,NIU (aged below 15)
-5,38.00,0.03,0.09,104,2,PEMLR,Categorical,0,1,Employed - at work
-5,38.00,0.03,0.09,104,2,PEMLR,Categorical,0,3,Unemployed - on layoff
-5,38.00,0.03,0.09,104,2,PEMLR,Categorical,0,7,Not in labor force - other
-5,38.00,0.03,0.09,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-5,38.00,0.03,0.09,104,2,PEMLR,Categorical,3,0,NIU
-5,38.00,0.03,0.09,104,2,PEMLR,Categorical,3,2,Employed - absent
-5,38.00,0.03,0.09,104,2,PEMLR,Categorical,3,4,Unemployed - looking
-5,38.00,0.03,0.09,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-5,38.00,0.03,0.09,104,3,SS_YN,Categorical,0,2,No
-5,38.00,0.03,0.09,104,3,SS_YN,Categorical,1,1,Yes
-5,38.00,0.03,0.09,104,3,SS_YN,Categorical,2,0,NIU (aged below 15)
-6,40.00,13.30,13.39,104,2,PEMLR,Categorical,0,1,Employed - at work
-6,40.00,13.30,13.39,104,2,PEMLR,Categorical,0,3,Unemployed - on layoff
-6,40.00,13.30,13.39,104,2,PEMLR,Categorical,0,7,Not in labor force - other
-6,40.00,13.30,13.39,104,2,PEMLR,Categorical,1,2,Employed - absent
-6,40.00,13.30,13.39,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-6,40.00,13.30,13.39,104,2,PEMLR,Categorical,3,0,NIU
-6,40.00,13.30,13.39,104,2,PEMLR,Categorical,3,4,Unemployed - looking
-6,40.00,13.30,13.39,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-6,40.00,13.30,13.39,104,3,SS_YN,Categorical,0,2,No
-6,40.00,13.30,13.39,104,3,SS_YN,Categorical,1,1,Yes
-6,40.00,13.30,13.39,104,3,SS_YN,Categorical,2,0,NIU (aged below 15)
-7,40.00,5.27,18.66,104,2,PEMLR,Categorical,0,1,Employed - at work
-7,40.00,5.27,18.66,104,2,PEMLR,Categorical,0,2,Employed - absent
-7,40.00,5.27,18.66,104,2,PEMLR,Categorical,0,4,Unemployed - looking
-7,40.00,5.27,18.66,104,2,PEMLR,Categorical,2,0,NIU
-7,40.00,5.27,18.66,104,2,PEMLR,Categorical,2,3,Unemployed - on layoff
-7,40.00,5.27,18.66,104,2,PEMLR,Categorical,2,6,Not in labor force - disabled
-7,40.00,5.27,18.66,104,2,PEMLR,Categorical,2,7,Not in labor force - other
-7,40.00,5.27,18.66,104,2,PEMLR,Categorical,3,5,Not in labor force - retired
-7,40.00,5.27,18.66,104,3,SS_YN,Categorical,1,0,NIU (aged below 15)
-7,40.00,5.27,18.66,104,3,SS_YN,Categorical,1,2,No
-7,40.00,5.27,18.66,104,3,SS_YN,Categorical,2,1,Yes
-8,43.00,4.64,23.30,104,2,PEMLR,Categorical,0,2,Employed - absent
-8,43.00,4.64,23.30,104,2,PEMLR,Categorical,1,1,Employed - at work
-8,43.00,4.64,23.30,104,2,PEMLR,Categorical,1,6,Not in labor force - disabled
-8,43.00,4.64,23.30,104,2,PEMLR,Categorical,2,0,NIU
-8,43.00,4.64,23.30,104,2,PEMLR,Categorical,2,3,Unemployed - on layoff
-8,43.00,4.64,23.30,104,2,PEMLR,Categorical,2,4,Unemployed - looking
-8,43.00,4.64,23.30,104,2,PEMLR,Categorical,2,7,Not in labor force - other
-8,43.00,4.64,23.30,104,2,PEMLR,Categorical,3,5,Not in labor force - retired
-8,43.00,4.64,23.30,104,3,SS_YN,Categorical,0,2,No
-8,43.00,4.64,23.30,104,3,SS_YN,Categorical,2,0,NIU (aged below 15)
-8,43.00,4.64,23.30,104,3,SS_YN,Categorical,2,1,Yes
-9,44.00,7.67,30.97,104,2,PEMLR,Categorical,0,2,Employed - absent
-9,44.00,7.67,30.97,104,2,PEMLR,Categorical,1,1,Employed - at work
-9,44.00,7.67,30.97,104,2,PEMLR,Categorical,2,0,NIU
-9,44.00,7.67,30.97,104,2,PEMLR,Categorical,2,3,Unemployed - on layoff
-9,44.00,7.67,30.97,104,2,PEMLR,Categorical,2,4,Unemployed - looking
-9,44.00,7.67,30.97,104,2,PEMLR,Categorical,2,6,Not in labor force - disabled
-9,44.00,7.67,30.97,104,2,PEMLR,Categorical,2,7,Not in labor force - other
-9,44.00,7.67,30.97,104,2,PEMLR,Categorical,3,5,Not in labor force - retired
-9,44.00,7.67,30.97,104,3,SS_YN,Categorical,0,2,No
-9,44.00,7.67,30.97,104,3,SS_YN,Categorical,2,0,NIU (aged below 15)
-9,44.00,7.67,30.97,104,3,SS_YN,Categorical,2,1,Yes
-10,47.00,37.23,68.20,104,1,A_AGE,Continuous,,"[24.01, 40.990000001, 65.99]",
-10,47.00,37.23,68.20,104,2,PEMLR,Categorical,0,2,Employed - absent
-10,47.00,37.23,68.20,104,2,PEMLR,Categorical,1,1,Employed - at work
-10,47.00,37.23,68.20,104,2,PEMLR,Categorical,1,7,Not in labor force - other
-10,47.00,37.23,68.20,104,2,PEMLR,Categorical,2,4,Unemployed - looking
-10,47.00,37.23,68.20,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-10,47.00,37.23,68.20,104,2,PEMLR,Categorical,3,0,NIU
-10,47.00,37.23,68.20,104,2,PEMLR,Categorical,3,3,Unemployed - on layoff
-10,47.00,37.23,68.20,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-11,48.00,1.18,69.38,104,1,A_AGE,Continuous,,"[24.01, 40.99, 64.99]",
-11,48.00,1.18,69.38,104,2,PEMLR,Categorical,0,2,Employed - absent
-11,48.00,1.18,69.38,104,2,PEMLR,Categorical,1,1,Employed - at work
-11,48.00,1.18,69.38,104,2,PEMLR,Categorical,1,7,Not in labor force - other
-11,48.00,1.18,69.38,104,2,PEMLR,Categorical,2,4,Unemployed - looking
-11,48.00,1.18,69.38,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-11,48.00,1.18,69.38,104,2,PEMLR,Categorical,3,0,NIU
-11,48.00,1.18,69.38,104,2,PEMLR,Categorical,3,3,Unemployed - on layoff
-11,48.00,1.18,69.38,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-12,50.00,7.17,76.55,104,1,A_AGE,Continuous,,"[24.990000001, 40.009999998, 64.009999998]",
-12,50.00,7.17,76.55,104,2,PEMLR,Categorical,0,2,Employed - absent
-12,50.00,7.17,76.55,104,2,PEMLR,Categorical,1,1,Employed - at work
-12,50.00,7.17,76.55,104,2,PEMLR,Categorical,2,4,Unemployed - looking
-12,50.00,7.17,76.55,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-12,50.00,7.17,76.55,104,2,PEMLR,Categorical,2,7,Not in labor force - other
-12,50.00,7.17,76.55,104,2,PEMLR,Categorical,3,0,NIU
-12,50.00,7.17,76.55,104,2,PEMLR,Categorical,3,3,Unemployed - on layoff
-12,50.00,7.17,76.55,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-13,51.00,2.33,78.88,104,1,A_AGE,Continuous,,"[24.99, 55.99, 64.99]",
-13,51.00,2.33,78.88,104,2,PEMLR,Categorical,0,2,Employed - absent
-13,51.00,2.33,78.88,104,2,PEMLR,Categorical,1,1,Employed - at work
-13,51.00,2.33,78.88,104,2,PEMLR,Categorical,2,3,Unemployed - on layoff
-13,51.00,2.33,78.88,104,2,PEMLR,Categorical,2,4,Unemployed - looking
-13,51.00,2.33,78.88,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-13,51.00,2.33,78.88,104,2,PEMLR,Categorical,2,7,Not in labor force - other
-13,51.00,2.33,78.88,104,2,PEMLR,Categorical,3,0,NIU
-13,51.00,2.33,78.88,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-14,51.00,3.14,82.02,104,1,A_AGE,Continuous,,"[24.01, 55.99, 64.990000001]",
-14,51.00,3.14,82.02,104,2,PEMLR,Categorical,0,2,Employed - absent
-14,51.00,3.14,82.02,104,2,PEMLR,Categorical,1,1,Employed - at work
-14,51.00,3.14,82.02,104,2,PEMLR,Categorical,2,3,Unemployed - on layoff
-14,51.00,3.14,82.02,104,2,PEMLR,Categorical,2,4,Unemployed - looking
-14,51.00,3.14,82.02,104,2,PEMLR,Categorical,2,5,Not in labor force - retired
-14,51.00,3.14,82.02,104,2,PEMLR,Categorical,2,7,Not in labor force - other
-14,51.00,3.14,82.02,104,2,PEMLR,Categorical,3,0,NIU
-14,51.00,3.14,82.02,104,2,PEMLR,Categorical,3,6,Not in labor force - disabled
-15,51.00,127.91,209.93,111,1,A_AGE,Continuous,,"[24.01, 55.99, 64.990000001]",
-15,51.00,127.91,209.93,111,2,PEMLR,Categorical,0,2,Employed - absent
-15,51.00,127.91,209.93,111,2,PEMLR,Categorical,1,1,Employed - at work
-15,51.00,127.91,209.93,111,2,PEMLR,Categorical,2,3,Unemployed - on layoff
-15,51.00,127.91,209.93,111,2,PEMLR,Categorical,2,4,Unemployed - looking
-15,51.00,127.91,209.93,111,2,PEMLR,Categorical,2,5,Not in labor force - retired
-15,51.00,127.91,209.93,111,2,PEMLR,Categorical,2,7,Not in labor force - other
-15,51.00,127.91,209.93,111,2,PEMLR,Categorical,3,0,NIU
-15,51.00,127.91,209.93,111,2,PEMLR,Categorical,3,6,Not in labor force - disabled
+iter,taccuracy,minute,acctmin,status,j,variable,type,label,group,member,desc
+2,38.00,0.03,0.03,104,2,PEMLR,Categorical,Major labor force recode,0,1,Employed - at work
+2,38.00,0.03,0.03,104,2,PEMLR,Categorical,Major labor force recode,0,3,Unemployed - on layoff
+2,38.00,0.03,0.03,104,2,PEMLR,Categorical,Major labor force recode,0,7,Not in labor force - other
+2,38.00,0.03,0.03,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+2,38.00,0.03,0.03,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+2,38.00,0.03,0.03,104,2,PEMLR,Categorical,Major labor force recode,3,2,Employed - absent
+2,38.00,0.03,0.03,104,2,PEMLR,Categorical,Major labor force recode,3,4,Unemployed - looking
+2,38.00,0.03,0.03,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+2,38.00,0.03,0.03,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,0,2,No
+2,38.00,0.03,0.03,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,1,1,Yes
+2,38.00,0.03,0.03,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,0,NIU (aged below 15)
+3,38.00,0.01,0.04,104,2,PEMLR,Categorical,Major labor force recode,0,1,Employed - at work
+3,38.00,0.01,0.04,104,2,PEMLR,Categorical,Major labor force recode,0,3,Unemployed - on layoff
+3,38.00,0.01,0.04,104,2,PEMLR,Categorical,Major labor force recode,0,7,Not in labor force - other
+3,38.00,0.01,0.04,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+3,38.00,0.01,0.04,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+3,38.00,0.01,0.04,104,2,PEMLR,Categorical,Major labor force recode,3,2,Employed - absent
+3,38.00,0.01,0.04,104,2,PEMLR,Categorical,Major labor force recode,3,4,Unemployed - looking
+3,38.00,0.01,0.04,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+3,38.00,0.01,0.04,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,0,2,No
+3,38.00,0.01,0.04,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,1,1,Yes
+3,38.00,0.01,0.04,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,0,NIU (aged below 15)
+4,38.00,0.01,0.06,104,2,PEMLR,Categorical,Major labor force recode,0,1,Employed - at work
+4,38.00,0.01,0.06,104,2,PEMLR,Categorical,Major labor force recode,0,3,Unemployed - on layoff
+4,38.00,0.01,0.06,104,2,PEMLR,Categorical,Major labor force recode,0,7,Not in labor force - other
+4,38.00,0.01,0.06,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+4,38.00,0.01,0.06,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+4,38.00,0.01,0.06,104,2,PEMLR,Categorical,Major labor force recode,3,2,Employed - absent
+4,38.00,0.01,0.06,104,2,PEMLR,Categorical,Major labor force recode,3,4,Unemployed - looking
+4,38.00,0.01,0.06,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+4,38.00,0.01,0.06,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,0,2,No
+4,38.00,0.01,0.06,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,1,1,Yes
+4,38.00,0.01,0.06,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,0,NIU (aged below 15)
+5,38.00,0.03,0.09,104,2,PEMLR,Categorical,Major labor force recode,0,1,Employed - at work
+5,38.00,0.03,0.09,104,2,PEMLR,Categorical,Major labor force recode,0,3,Unemployed - on layoff
+5,38.00,0.03,0.09,104,2,PEMLR,Categorical,Major labor force recode,0,7,Not in labor force - other
+5,38.00,0.03,0.09,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+5,38.00,0.03,0.09,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+5,38.00,0.03,0.09,104,2,PEMLR,Categorical,Major labor force recode,3,2,Employed - absent
+5,38.00,0.03,0.09,104,2,PEMLR,Categorical,Major labor force recode,3,4,Unemployed - looking
+5,38.00,0.03,0.09,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+5,38.00,0.03,0.09,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,0,2,No
+5,38.00,0.03,0.09,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,1,1,Yes
+5,38.00,0.03,0.09,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,0,NIU (aged below 15)
+6,40.00,13.30,13.39,104,2,PEMLR,Categorical,Major labor force recode,0,1,Employed - at work
+6,40.00,13.30,13.39,104,2,PEMLR,Categorical,Major labor force recode,0,3,Unemployed - on layoff
+6,40.00,13.30,13.39,104,2,PEMLR,Categorical,Major labor force recode,0,7,Not in labor force - other
+6,40.00,13.30,13.39,104,2,PEMLR,Categorical,Major labor force recode,1,2,Employed - absent
+6,40.00,13.30,13.39,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+6,40.00,13.30,13.39,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+6,40.00,13.30,13.39,104,2,PEMLR,Categorical,Major labor force recode,3,4,Unemployed - looking
+6,40.00,13.30,13.39,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+6,40.00,13.30,13.39,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,0,2,No
+6,40.00,13.30,13.39,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,1,1,Yes
+6,40.00,13.30,13.39,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,0,NIU (aged below 15)
+7,40.00,5.27,18.66,104,2,PEMLR,Categorical,Major labor force recode,0,1,Employed - at work
+7,40.00,5.27,18.66,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
+7,40.00,5.27,18.66,104,2,PEMLR,Categorical,Major labor force recode,0,4,Unemployed - looking
+7,40.00,5.27,18.66,104,2,PEMLR,Categorical,Major labor force recode,2,0,NIU
+7,40.00,5.27,18.66,104,2,PEMLR,Categorical,Major labor force recode,2,3,Unemployed - on layoff
+7,40.00,5.27,18.66,104,2,PEMLR,Categorical,Major labor force recode,2,6,Not in labor force - disabled
+7,40.00,5.27,18.66,104,2,PEMLR,Categorical,Major labor force recode,2,7,Not in labor force - other
+7,40.00,5.27,18.66,104,2,PEMLR,Categorical,Major labor force recode,3,5,Not in labor force - retired
+7,40.00,5.27,18.66,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,1,0,NIU (aged below 15)
+7,40.00,5.27,18.66,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,1,2,No
+7,40.00,5.27,18.66,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,1,Yes
+8,43.00,4.64,23.30,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
+8,43.00,4.64,23.30,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
+8,43.00,4.64,23.30,104,2,PEMLR,Categorical,Major labor force recode,1,6,Not in labor force - disabled
+8,43.00,4.64,23.30,104,2,PEMLR,Categorical,Major labor force recode,2,0,NIU
+8,43.00,4.64,23.30,104,2,PEMLR,Categorical,Major labor force recode,2,3,Unemployed - on layoff
+8,43.00,4.64,23.30,104,2,PEMLR,Categorical,Major labor force recode,2,4,Unemployed - looking
+8,43.00,4.64,23.30,104,2,PEMLR,Categorical,Major labor force recode,2,7,Not in labor force - other
+8,43.00,4.64,23.30,104,2,PEMLR,Categorical,Major labor force recode,3,5,Not in labor force - retired
+8,43.00,4.64,23.30,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,0,2,No
+8,43.00,4.64,23.30,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,0,NIU (aged below 15)
+8,43.00,4.64,23.30,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,1,Yes
+9,44.00,7.67,30.97,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
+9,44.00,7.67,30.97,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
+9,44.00,7.67,30.97,104,2,PEMLR,Categorical,Major labor force recode,2,0,NIU
+9,44.00,7.67,30.97,104,2,PEMLR,Categorical,Major labor force recode,2,3,Unemployed - on layoff
+9,44.00,7.67,30.97,104,2,PEMLR,Categorical,Major labor force recode,2,4,Unemployed - looking
+9,44.00,7.67,30.97,104,2,PEMLR,Categorical,Major labor force recode,2,6,Not in labor force - disabled
+9,44.00,7.67,30.97,104,2,PEMLR,Categorical,Major labor force recode,2,7,Not in labor force - other
+9,44.00,7.67,30.97,104,2,PEMLR,Categorical,Major labor force recode,3,5,Not in labor force - retired
+9,44.00,7.67,30.97,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,0,2,No
+9,44.00,7.67,30.97,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,0,NIU (aged below 15)
+9,44.00,7.67,30.97,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,1,Yes
+10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.01)",Below 24
+10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,1,"(24.01, 40.99)",Between 25 and 40
+10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,2,"(40.99, 65.99)",Between 41 and 65
+10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,3,"(65.99, inf)",Above 66
+10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
+10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
+10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,1,7,Not in labor force - other
+10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,2,4,Unemployed - looking
+10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,3,3,Unemployed - on layoff
+10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.01)",Below 24
+11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,1,"(24.01, 40.99)",Between 25 and 40
+11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,2,"(40.99, 64.99)",Between 41 and 64
+11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,3,"(64.99, inf)",Above 65
+11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
+11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
+11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,1,7,Not in labor force - other
+11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,2,4,Unemployed - looking
+11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,3,3,Unemployed - on layoff
+11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.99)",Below 24
+12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,1,"(24.99, 40.01)",Between 25 and 40
+12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,2,"(40.00, 64.01)",Between 41 and 64
+12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,3,"(64.01, inf)",Above 65
+12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
+12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
+12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,2,4,Unemployed - looking
+12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,2,7,Not in labor force - other
+12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,3,3,Unemployed - on layoff
+12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.99)",Below 24
+13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,1,"(24.99, 55.99)",Between 25 and 55
+13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,2,"(55.99, 64.99)",Between 56 and 64
+13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,3,"(64.99, inf)",Above 65
+13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
+13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
+13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,2,3,Unemployed - on layoff
+13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,2,4,Unemployed - looking
+13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,2,7,Not in labor force - other
+13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.01)",Below 24
+14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,1,"(24.01, 55.99)",Between 25 and 55
+14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,2,"(55.99, 64.99)",Between 56 and 64
+14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,3,"(64.99, inf)",Above 65
+14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
+14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
+14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,2,3,Unemployed - on layoff
+14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,2,4,Unemployed - looking
+14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,2,7,Not in labor force - other
+14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
+15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,0,"(-inf, 24.01)",Below 24
+15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,1,"(24.01, 55.99)",Between 25 and 55
+15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,2,"(55.99, 64.99)",Between 56 and 64
+15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,3,"(64.99, inf)",Above 65
+15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
+15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
+15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,2,3,Unemployed - on layoff
+15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,2,4,Unemployed - looking
+15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,2,5,Not in labor force - retired
+15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,2,7,Not in labor force - other
+15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
+15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
