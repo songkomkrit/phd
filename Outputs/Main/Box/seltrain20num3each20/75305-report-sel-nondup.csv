@@ -1,0 +1,143 @@
+iter,taccuracy,minute,acctmin,status,j,variable,type,group,member,desc
+2,38.00,0.03,0.03,104,2,PEMLR,Categorical,0,1,Employed - at work
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,2,5,Not in labor force - retired
+,,,,,,,,3,0,NIU
+,,,,,,,,,2,Employed - absent
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,6,Not in labor force - disabled
+,,,,,3,SS_YN,Categorical,0,2,No
+,,,,,,,,1,1,Yes
+,,,,,,,,2,0,NIU (aged below 15)
+3,38.00,0.01,0.04,104,2,PEMLR,Categorical,0,1,Employed - at work
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,2,5,Not in labor force - retired
+,,,,,,,,3,0,NIU
+,,,,,,,,,2,Employed - absent
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,6,Not in labor force - disabled
+,,,,,3,SS_YN,Categorical,0,2,No
+,,,,,,,,1,1,Yes
+,,,,,,,,2,0,NIU (aged below 15)
+4,38.00,0.01,0.06,104,2,PEMLR,Categorical,0,1,Employed - at work
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,2,5,Not in labor force - retired
+,,,,,,,,3,0,NIU
+,,,,,,,,,2,Employed - absent
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,6,Not in labor force - disabled
+,,,,,3,SS_YN,Categorical,0,2,No
+,,,,,,,,1,1,Yes
+,,,,,,,,2,0,NIU (aged below 15)
+5,38.00,0.03,0.09,104,2,PEMLR,Categorical,0,1,Employed - at work
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,2,5,Not in labor force - retired
+,,,,,,,,3,0,NIU
+,,,,,,,,,2,Employed - absent
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,6,Not in labor force - disabled
+,,,,,3,SS_YN,Categorical,0,2,No
+,,,,,,,,1,1,Yes
+,,,,,,,,2,0,NIU (aged below 15)
+6,40.00,13.30,13.39,104,2,PEMLR,Categorical,0,1,Employed - at work
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,1,2,Employed - absent
+,,,,,,,,2,5,Not in labor force - retired
+,,,,,,,,3,0,NIU
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,6,Not in labor force - disabled
+,,,,,3,SS_YN,Categorical,0,2,No
+,,,,,,,,1,1,Yes
+,,,,,,,,2,0,NIU (aged below 15)
+7,40.00,5.27,18.66,104,2,PEMLR,Categorical,0,1,Employed - at work
+,,,,,,,,,2,Employed - absent
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,2,0,NIU
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,6,Not in labor force - disabled
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,3,5,Not in labor force - retired
+,,,,,3,SS_YN,Categorical,1,0,NIU (aged below 15)
+,,,,,,,,,2,No
+,,,,,,,,2,1,Yes
+8,43.00,4.64,23.30,104,2,PEMLR,Categorical,0,2,Employed - absent
+,,,,,,,,1,1,Employed - at work
+,,,,,,,,,6,Not in labor force - disabled
+,,,,,,,,2,0,NIU
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,3,5,Not in labor force - retired
+,,,,,3,SS_YN,Categorical,0,2,No
+,,,,,,,,2,0,NIU (aged below 15)
+,,,,,,,,,1,Yes
+9,44.00,7.67,30.97,104,2,PEMLR,Categorical,0,2,Employed - absent
+,,,,,,,,1,1,Employed - at work
+,,,,,,,,2,0,NIU
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,6,Not in labor force - disabled
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,3,5,Not in labor force - retired
+,,,,,3,SS_YN,Categorical,0,2,No
+,,,,,,,,2,0,NIU (aged below 15)
+,,,,,,,,,1,Yes
+10,47.00,37.23,68.20,104,1,A_AGE,Continuous,,"[24.01, 40.990000001, 65.99]",
+,,,,,2,PEMLR,Categorical,0,2,Employed - absent
+,,,,,,,,1,1,Employed - at work
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,2,4,Unemployed - looking
+,,,,,,,,,5,Not in labor force - retired
+,,,,,,,,3,0,NIU
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,6,Not in labor force - disabled
+11,48.00,1.18,69.38,104,1,A_AGE,Continuous,,"[24.01, 40.99, 64.99]",
+,,,,,2,PEMLR,Categorical,0,2,Employed - absent
+,,,,,,,,1,1,Employed - at work
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,2,4,Unemployed - looking
+,,,,,,,,,5,Not in labor force - retired
+,,,,,,,,3,0,NIU
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,6,Not in labor force - disabled
+12,50.00,7.17,76.55,104,1,A_AGE,Continuous,,"[24.990000001, 40.009999998, 64.009999998]",
+,,,,,2,PEMLR,Categorical,0,2,Employed - absent
+,,,,,,,,1,1,Employed - at work
+,,,,,,,,2,4,Unemployed - looking
+,,,,,,,,,5,Not in labor force - retired
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,3,0,NIU
+,,,,,,,,,3,Unemployed - on layoff
+,,,,,,,,,6,Not in labor force - disabled
+13,51.00,2.33,78.88,104,1,A_AGE,Continuous,,"[24.99, 55.99, 64.99]",
+,,,,,2,PEMLR,Categorical,0,2,Employed - absent
+,,,,,,,,1,1,Employed - at work
+,,,,,,,,2,3,Unemployed - on layoff
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,5,Not in labor force - retired
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,3,0,NIU
+,,,,,,,,,6,Not in labor force - disabled
+14,51.00,3.14,82.02,104,1,A_AGE,Continuous,,"[24.01, 55.99, 64.990000001]",
+,,,,,2,PEMLR,Categorical,0,2,Employed - absent
+,,,,,,,,1,1,Employed - at work
+,,,,,,,,2,3,Unemployed - on layoff
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,5,Not in labor force - retired
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,3,0,NIU
+,,,,,,,,,6,Not in labor force - disabled
+15,51.00,127.91,209.93,111,1,A_AGE,Continuous,,"[24.01, 55.99, 64.990000001]",
+,,,,,2,PEMLR,Categorical,0,2,Employed - absent
+,,,,,,,,1,1,Employed - at work
+,,,,,,,,2,3,Unemployed - on layoff
+,,,,,,,,,4,Unemployed - looking
+,,,,,,,,,5,Not in labor force - retired
+,,,,,,,,,7,Not in labor force - other
+,,,,,,,,3,0,NIU
+,,,,,,,,,6,Not in labor force - disabled
