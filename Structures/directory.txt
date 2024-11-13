@@ -1,4 +1,17 @@
 .
+├── Backups
+│   └── 20241114
+│       └── Outputs
+│           └── Main
+│               └── EDA
+│                   └── seltrain20num3each20
+│                       └── tab-cbins-5
+│                           ├── csv
+│                           ├── feather
+│                           └── figures
+│                               ├── pdf
+│                               ├── pgf
+│                               └── svg
 ├── Data
 │   ├── Encoded
 │   │   ├── csv
@@ -11,17 +24,37 @@
 │       └── metadata
 │           └── full
 ├── Logs
-│   └── box
+│   ├── box
+│   └── samples
 ├── Outputs
 │   └── Main
-│       └── Box
+│       ├── Box
+│       │   └── seltrain20num3each20
+│       ├── EDA
+│       │   └── seltrain20num3each20
+│       │       └── tab-cbins-5
+│       │           ├── csv
+│       │           ├── feather
+│       │           └── figures
+│       │               ├── pdf
+│       │               ├── pgf
+│       │               └── svg
+│       └── Tree
 │           └── seltrain20num3each20
+│               ├── figures
+│               │   ├── pdf
+│               │   ├── pgf
+│               │   └── svg
+│               ├── prediction
+│               └── rules
 ├── Projects
 │   └── box
 │       ├── input
 │       ├── log
 │       ├── output
 │       └── tmp
+├── Samples
+│   └── cplex
 ├── Scripts
 │   ├── Box
 │   │   └── Python
@@ -36,4 +69,4 @@
 │           └── module
 └── Structures
 
-37 directories
+70 directories

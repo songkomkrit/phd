@@ -1,4 +1,32 @@
 .
+├── ./Backups
+│   └── ./Backups/20241114
+│       └── ./Backups/20241114/Outputs
+│           └── ./Backups/20241114/Outputs/Main
+│               └── ./Backups/20241114/Outputs/Main/EDA
+│                   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20
+│                       └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5
+│                           ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv
+│                           │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv/A_AGE-cbins-5-backup.csv
+│                           │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv/PEMLR-cbins-5-backup.csv
+│                           │   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv/SS_YN-cbins-5-backup.csv
+│                           ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather
+│                           │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather/A_AGE-cbins-5-backup.feather
+│                           │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather/PEMLR-cbins-5-backup.feather
+│                           │   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather/SS_YN-cbins-5-backup.feather
+│                           └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures
+│                               ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf
+│                               │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf/A_AGE-cbins-5-backup.pdf
+│                               │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf/PEMLR-cbins-5-backup.pdf
+│                               │   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf/SS_YN-cbins-5-backup.pdf
+│                               ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf
+│                               │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf/A_AGE-cbins-5-backup.pgf
+│                               │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf/PEMLR-cbins-5-backup.pgf
+│                               │   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf/SS_YN-cbins-5-backup.pgf
+│                               └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg
+│                                   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg/A_AGE-cbins-5-backup.svg
+│                                   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg/PEMLR-cbins-5-backup.svg
+│                                   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg/SS_YN-cbins-5-backup.svg
 ├── ./Data
 │   ├── ./Data/Encoded
 │   │   ├── ./Data/Encoded/csv
@@ -26,24 +54,74 @@
 ├── ./file.txt
 ├── ./LICENSE
 ├── ./Logs
-│   └── ./Logs/box
-│       └── ./Logs/box/75305-seltrain20num3each20.log
+│   ├── ./Logs/box
+│   │   └── ./Logs/box/75305-seltrain20num3each20.log
+│   └── ./Logs/samples
+│       └── ./Logs/samples/sampledesc.log
 ├── ./Outputs
 │   └── ./Outputs/Main
-│       └── ./Outputs/Main/Box
-│           └── ./Outputs/Main/Box/seltrain20num3each20
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-cutcat.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-cutcont.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-eperf.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-exam-diff.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-exam-diffnum.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-exam-full.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-predregfin.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-reg-dup.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-reg-nondup.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-sel-dup.csv
-│               ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-sel-nondup.csv
-│               └── ./Outputs/Main/Box/seltrain20num3each20/75305-selvarfin.csv
+│       ├── ./Outputs/Main/Box
+│       │   └── ./Outputs/Main/Box/seltrain20num3each20
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-cutcat.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-cutcont.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-eperf.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-exam-diff.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-exam-diffnum.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-exam-full.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-predregfin.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-reg-dup.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-reg-nondup.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-sel-dup.csv
+│       │       ├── ./Outputs/Main/Box/seltrain20num3each20/75305-report-sel-nondup.csv
+│       │       └── ./Outputs/Main/Box/seltrain20num3each20/75305-selvarfin.csv
+│       ├── ./Outputs/Main/EDA
+│       │   └── ./Outputs/Main/EDA/seltrain20num3each20
+│       │       └── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5
+│       │           ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv
+│       │           │   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv/A_AGE-cbins-5.csv
+│       │           │   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv/PEMLR-cbins-5.csv
+│       │           │   └── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv/SS_YN-cbins-5.csv
+│       │           ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather
+│       │           │   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather/A_AGE-cbins-5.feather
+│       │           │   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather/PEMLR-cbins-5.feather
+│       │           │   └── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather/SS_YN-cbins-5.feather
+│       │           └── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures
+│       │               ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf
+│       │               │   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf/A_AGE-cbins-5.pdf
+│       │               │   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf/PEMLR-cbins-5.pdf
+│       │               │   └── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf/SS_YN-cbins-5.pdf
+│       │               ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf
+│       │               │   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf/A_AGE-cbins-5.pgf
+│       │               │   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf/PEMLR-cbins-5.pgf
+│       │               │   └── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf/SS_YN-cbins-5.pgf
+│       │               └── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg
+│       │                   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg/A_AGE-cbins-5.svg
+│       │                   ├── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg/PEMLR-cbins-5.svg
+│       │                   └── ./Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg/SS_YN-cbins-5.svg
+│       └── ./Outputs/Main/Tree
+│           └── ./Outputs/Main/Tree/seltrain20num3each20
+│               ├── ./Outputs/Main/Tree/seltrain20num3each20/figures
+│               │   ├── ./Outputs/Main/Tree/seltrain20num3each20/figures/pdf
+│               │   │   ├── ./Outputs/Main/Tree/seltrain20num3each20/figures/pdf/seltrain20num3each20-fig-mdepth-3-mleaves-16.pdf
+│               │   │   ├── ./Outputs/Main/Tree/seltrain20num3each20/figures/pdf/seltrain20num3each20-fig-mdepth-4-mleaves-16.pdf
+│               │   │   └── ./Outputs/Main/Tree/seltrain20num3each20/figures/pdf/seltrain20num3each20-fig-mdepth-5-mleaves-16.pdf
+│               │   ├── ./Outputs/Main/Tree/seltrain20num3each20/figures/pgf
+│               │   │   ├── ./Outputs/Main/Tree/seltrain20num3each20/figures/pgf/seltrain20num3each20-fig-mdepth-3-mleaves-16.pgf
+│               │   │   ├── ./Outputs/Main/Tree/seltrain20num3each20/figures/pgf/seltrain20num3each20-fig-mdepth-4-mleaves-16.pgf
+│               │   │   └── ./Outputs/Main/Tree/seltrain20num3each20/figures/pgf/seltrain20num3each20-fig-mdepth-5-mleaves-16.pgf
+│               │   └── ./Outputs/Main/Tree/seltrain20num3each20/figures/svg
+│               │       ├── ./Outputs/Main/Tree/seltrain20num3each20/figures/svg/seltrain20num3each20-fig-mdepth-3-mleaves-16.svg
+│               │       ├── ./Outputs/Main/Tree/seltrain20num3each20/figures/svg/seltrain20num3each20-fig-mdepth-4-mleaves-16.svg
+│               │       └── ./Outputs/Main/Tree/seltrain20num3each20/figures/svg/seltrain20num3each20-fig-mdepth-5-mleaves-16.svg
+│               ├── ./Outputs/Main/Tree/seltrain20num3each20/prediction
+│               │   ├── ./Outputs/Main/Tree/seltrain20num3each20/prediction/seltrain20num3each20-pred-mdepth-3-mleaves-16.csv
+│               │   ├── ./Outputs/Main/Tree/seltrain20num3each20/prediction/seltrain20num3each20-pred-mdepth-4-mleaves-16.csv
+│               │   └── ./Outputs/Main/Tree/seltrain20num3each20/prediction/seltrain20num3each20-pred-mdepth-5-mleaves-16.csv
+│               ├── ./Outputs/Main/Tree/seltrain20num3each20/rules
+│               │   ├── ./Outputs/Main/Tree/seltrain20num3each20/rules/seltrain20num3each20-rule-mdepth-3-mleaves-16.txt
+│               │   ├── ./Outputs/Main/Tree/seltrain20num3each20/rules/seltrain20num3each20-rule-mdepth-4-mleaves-16.txt
+│               │   └── ./Outputs/Main/Tree/seltrain20num3each20/rules/seltrain20num3each20-rule-mdepth-5-mleaves-16.txt
+│               └── ./Outputs/Main/Tree/seltrain20num3each20/seltrain20num3each20-summary.csv
 ├── ./Projects
 │   └── ./Projects/box
 │       ├── ./Projects/box/input
@@ -71,6 +149,14 @@
 │       └── ./Projects/box/tmp
 │           └── ./Projects/box/tmp/current-engine.log
 ├── ./README.md
+├── ./Samples
+│   └── ./Samples/cplex
+│       ├── ./Samples/cplex/selproc20num3co3ca3cutinfo.csv
+│       ├── ./Samples/cplex/selproc20num4co3ca3cutinfo.csv
+│       ├── ./Samples/cplex/selproc20num8co2ca2cutinfo.csv
+│       ├── ./Samples/cplex/seltrain20num3each20.csv
+│       ├── ./Samples/cplex/seltrain20num4each20.csv
+│       └── ./Samples/cplex/seltrain20num8each20.csv
 ├── ./Scripts
 │   ├── ./Scripts/Box
 │   │   └── ./Scripts/Box/Python
@@ -110,4 +196,4 @@
     ├── ./Structures/directory.txt
     └── ./Structures/file.txt
 
-37 directories, 74 files
+70 directories, 127 files

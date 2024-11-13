@@ -1,0 +1,4 @@
+mdepth,mleaves,depth,leaves,error,accuracy,score,nodes,splits
+3,16,3,8,55,44.99999999999999,0.45,15,7
+4,16,4,12,50,50.0,0.5,23,11
+5,16,5,16,46,54.0,0.54,31,15
