@@ -1,32 +1,4 @@
 .
-├── ./Backups
-│   └── ./Backups/20241114
-│       └── ./Backups/20241114/Outputs
-│           └── ./Backups/20241114/Outputs/Main
-│               └── ./Backups/20241114/Outputs/Main/EDA
-│                   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20
-│                       └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5
-│                           ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv
-│                           │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv/A_AGE-cbins-5-backup.csv
-│                           │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv/PEMLR-cbins-5-backup.csv
-│                           │   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/csv/SS_YN-cbins-5-backup.csv
-│                           ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather
-│                           │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather/A_AGE-cbins-5-backup.feather
-│                           │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather/PEMLR-cbins-5-backup.feather
-│                           │   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/feather/SS_YN-cbins-5-backup.feather
-│                           └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures
-│                               ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf
-│                               │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf/A_AGE-cbins-5-backup.pdf
-│                               │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf/PEMLR-cbins-5-backup.pdf
-│                               │   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pdf/SS_YN-cbins-5-backup.pdf
-│                               ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf
-│                               │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf/A_AGE-cbins-5-backup.pgf
-│                               │   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf/PEMLR-cbins-5-backup.pgf
-│                               │   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/pgf/SS_YN-cbins-5-backup.pgf
-│                               └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg
-│                                   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg/A_AGE-cbins-5-backup.svg
-│                                   ├── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg/PEMLR-cbins-5-backup.svg
-│                                   └── ./Backups/20241114/Outputs/Main/EDA/seltrain20num3each20/tab-cbins-5/figures/svg/SS_YN-cbins-5-backup.svg
 ├── ./Data
 │   ├── ./Data/Encoded
 │   │   ├── ./Data/Encoded/csv
@@ -196,4 +168,4 @@
     ├── ./Structures/directory.txt
     └── ./Structures/file.txt
 
-70 directories, 127 files
+57 directories, 112 files

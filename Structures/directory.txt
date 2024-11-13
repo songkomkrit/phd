@@ -1,17 +1,4 @@
 .
-├── Backups
-│   └── 20241114
-│       └── Outputs
-│           └── Main
-│               └── EDA
-│                   └── seltrain20num3each20
-│                       └── tab-cbins-5
-│                           ├── csv
-│                           ├── feather
-│                           └── figures
-│                               ├── pdf
-│                               ├── pgf
-│                               └── svg
 ├── Data
 │   ├── Encoded
 │   │   ├── csv
@@ -69,4 +56,4 @@
 │           └── module
 └── Structures
 
-70 directories
+57 directories
