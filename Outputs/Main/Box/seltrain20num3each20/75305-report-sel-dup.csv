@@ -87,10 +87,10 @@ iter,taccuracy,minute,acctmin,status,j,variable,type,label,group,member,desc
 9,44.00,7.67,30.97,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,0,2,No
 9,44.00,7.67,30.97,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,0,NIU (aged below 15)
 9,44.00,7.67,30.97,104,3,SS_YN,Categorical,Who received social security payments either for themselves or as combined payments with other family members?,2,1,Yes
-10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.01)",Below 24
-10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,1,"(24.01, 40.99)",Between 25 and 40
+10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.02)",Below 24
+10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,1,"(24.01, 41.00)",Between 25 and 40
 10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,2,"(40.99, 65.99)",Between 41 and 65
-10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,3,"(65.99, inf)",Above 66
+10,47.00,37.23,68.20,104,1,A_AGE,Continuous,Age,3,"(65.98, inf)",Above 66
 10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
 10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
 10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,1,7,Not in labor force - other
@@ -99,10 +99,10 @@ iter,taccuracy,minute,acctmin,status,j,variable,type,label,group,member,desc
 10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
 10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,3,3,Unemployed - on layoff
 10,47.00,37.23,68.20,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
-11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.01)",Below 24
-11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,1,"(24.01, 40.99)",Between 25 and 40
+11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.02)",Below 24
+11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,1,"(24.01, 41.00)",Between 25 and 40
 11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,2,"(40.99, 64.99)",Between 41 and 64
-11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,3,"(64.99, inf)",Above 65
+11,48.00,1.18,69.38,104,1,A_AGE,Continuous,Age,3,"(64.98, inf)",Above 65
 11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
 11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
 11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,1,7,Not in labor force - other
@@ -112,8 +112,8 @@ iter,taccuracy,minute,acctmin,status,j,variable,type,label,group,member,desc
 11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,3,3,Unemployed - on layoff
 11,48.00,1.18,69.38,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
 12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.99)",Below 24
-12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,1,"(24.99, 40.01)",Between 25 and 40
-12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,2,"(40.00, 64.01)",Between 41 and 64
+12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,1,"(24.98, 40.01)",Between 25 and 40
+12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,2,"(40.00, 64.02)",Between 41 and 64
 12,50.00,7.17,76.55,104,1,A_AGE,Continuous,Age,3,"(64.01, inf)",Above 65
 12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
 12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
@@ -124,9 +124,9 @@ iter,taccuracy,minute,acctmin,status,j,variable,type,label,group,member,desc
 12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,3,3,Unemployed - on layoff
 12,50.00,7.17,76.55,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
 13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.99)",Below 24
-13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,1,"(24.99, 55.99)",Between 25 and 55
+13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,1,"(24.98, 56.00)",Between 25 and 55
 13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,2,"(55.99, 64.99)",Between 56 and 64
-13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,3,"(64.99, inf)",Above 65
+13,51.00,2.33,78.88,104,1,A_AGE,Continuous,Age,3,"(64.98, inf)",Above 65
 13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
 13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
 13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,2,3,Unemployed - on layoff
@@ -135,10 +135,10 @@ iter,taccuracy,minute,acctmin,status,j,variable,type,label,group,member,desc
 13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,2,7,Not in labor force - other
 13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
 13,51.00,2.33,78.88,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
-14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.01)",Below 24
-14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,1,"(24.01, 55.99)",Between 25 and 55
+14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,0,"(-inf, 24.02)",Below 24
+14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,1,"(24.01, 56.00)",Between 25 and 55
 14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,2,"(55.99, 64.99)",Between 56 and 64
-14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,3,"(64.99, inf)",Above 65
+14,51.00,3.14,82.02,104,1,A_AGE,Continuous,Age,3,"(64.98, inf)",Above 65
 14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
 14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
 14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,2,3,Unemployed - on layoff
@@ -147,10 +147,10 @@ iter,taccuracy,minute,acctmin,status,j,variable,type,label,group,member,desc
 14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,2,7,Not in labor force - other
 14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,3,0,NIU
 14,51.00,3.14,82.02,104,2,PEMLR,Categorical,Major labor force recode,3,6,Not in labor force - disabled
-15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,0,"(-inf, 24.01)",Below 24
-15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,1,"(24.01, 55.99)",Between 25 and 55
+15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,0,"(-inf, 24.02)",Below 24
+15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,1,"(24.01, 56.00)",Between 25 and 55
 15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,2,"(55.99, 64.99)",Between 56 and 64
-15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,3,"(64.99, inf)",Above 65
+15,51.00,127.91,209.93,111,1,A_AGE,Continuous,Age,3,"(64.98, inf)",Above 65
 15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,0,2,Employed - absent
 15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,1,1,Employed - at work
 15,51.00,127.91,209.93,111,2,PEMLR,Categorical,Major labor force recode,2,3,Unemployed - on layoff
